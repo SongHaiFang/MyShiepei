@@ -18,7 +18,7 @@ import android.widget.ImageView;
 
 /**
  * data:2017/9/25 0025.
- * Created by ：宋海防  song on
+ * Created by ：  song on
  */
 
 public class YuanJiao extends ImageView {
